@@ -1,7 +1,5 @@
 # Проекты аналитика данных, выполненные во время обучения в Яндекс.Практикуме
 
-## [Диплом выпускника Яндекс.Практикума](https://disk.yandex.ru/i/ajPxugzm97zbZg)
-
 [`Analysis_of_business_indicators`](Analysis_of_business_indicators) - проект, в котором проведен анализ бизнес показателей, таких как LTV, CAC, Retention Rate, Dau, Wau и т.д. Файлы: [README](Analysis_of_business_indicators/README.md), [Marketing_analysis_app.ipynb](Analysis_of_business_indicators/Marketing_analysis_app.ipynb).
 
 [`A_B_test`](Hypothesis_testing) - в проекте проведен анализ результатов A/B-теста, построены графики кумулятивной выручки,
