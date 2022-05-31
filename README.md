@@ -1,9 +1,9 @@
 # Проекты аналитика данных, выполненные во время обучения в Яндекс.Практикуме
 
-[`Analysis_of_business_indicators`](Analysis_of_business_indicators) - проект, в котором проведен анализ бизнес показателей, таких как LTV, CAC, Retention Rate, Dau, Wau и т.д. Файлы: [README](Analysis_of_business_indicators/README.md), [Marketing_analysis_app.ipynb](Analysis_of_business_indicators/Marketing_analysis_app.ipynb).
+[Анализ бизнес-показателей](Analysis_of_business_indicators) - проект, в котором проведен анализ бизнес показателей, таких как LTV, CAC, Retention Rate, Dau, Wau и т.д. Стек: продуктовый анализ, маркетинговый анализ, расчет и визуализация бизнес-метрик.
 
-[`A_B_test`](Hypothesis_testing) - в проекте проведен анализ результатов A/B-теста, построены графики кумулятивной выручки,
+[Приоретизация и анализ гипотез](Hypothesis_testing) - в проекте проведен анализ результатов A/B-теста, построены графики кумулятивной выручки,
 среднего чека, конверсии по группам, посчитаны статистическая значимость различий конверсий и 
-средних чеков по сырым и очищенным данным. Файлы: [README.md](Hypothesis_testing/README.md), [A_B_test.ipynb](Hypothesis_testing/A_B_test.ipynb)
+средних чеков по сырым и очищенным данным. Стек: А/В тест, статистический тест, продуктовый анализ.
 
-[`ML_fitness_center`](Prediction_and_classification) - в проекте спрогнозирована вероятность оттока клиентов, классифицированы портреты пользователей, определены признаки, влияющие на отток. Файлы: [README.md](Prediction_and_classification/README.md), [ML_fitness_center.ipynb](Prediction_and_classification/ML_fitness_center.ipynb)
+[Прогноз оттока клиентов фитнес-центра](Prediction_and_classification) - в проекте спрогнозирована вероятность оттока клиентов, классифицированы портреты пользователей, определены признаки, влияющие на отток. Стек: прогнозы, предсказания, машинное обучение, классификация.
